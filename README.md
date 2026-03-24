@@ -1,47 +1,75 @@
 
 
-# Olá, eu sou a Ana Julia! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F80ED&center=true&vCenter=true&width=500&lines=Estudante+de+Tecnologia;Técnica+em+Desenvolvimento+de+Sistemas;Apaixonada+por+código!" alt="Typing SVG" />
+
+# 👋 Olá, eu sou Ana Júlia
+
+### 🚀 Desenvolvedora em Formação | SENAI
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDIyYTE4ZjU1YWExNTA1NmNjY2UyMzhmZTJiNmNjNzFkZjVhYzBkNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="300px" alt="Coding GIF">
+
+<p align="center">
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Contato-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/SEU_LINK_AQUI">
+    <img src="https://img.shields.io/badge/Conectar-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 👩‍💻 Sobre mim
+## 👩‍💻 Sobre Mim
 
-Sou uma desenvolvedora em formação, atualmente cursando o **Técnico em Desenvolvimento de Sistemas** no **SENAI**. Sou muito curiosa, dedicada e estou sempre em busca de aprender novas tecnologias para aprimorar minha lógica de programação e criar soluções criativas.
+Sou estudante do **Técnico em Desenvolvimento de Sistemas no SENAI**. Minha paixão é transformar linhas de código em soluções funcionais e intuitivas. Atualmente, estou focada em construir uma base sólida no desenvolvimento full-stack, aprendendo novas tecnologias e aplicando-as em projetos práticos.
 
-- 📚 Atualmente focada em aprender: **[Coloque aqui o que está estudando. Ex: HTML, CSS, JavaScript e Lógica]**
-- 🎯 Objetivo: Evoluir como desenvolvedora e ingressar no mercado de tecnologia.
-- 💡 Interesses: Desenvolvimento Web, Banco de Dados, e Design de Interfaces.
-- 🎮 Quando não estou programando: **[Coloque um hobby seu. Ex: gosto de ler, jogar videogame ou ouvir música]**
+* 🔭 **Estudando:** Desenvolvimento de Sistemas no SENAI.
+* 🌱 **Atualmente aprendendo:** JavaScript, Node.js e React.
+* ⚡ **Fato curioso:** Adoro café e resolver desafios de lógica.
 
 ---
 
-### 🛠️ Minhas Habilidades e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-Estas são algumas das tecnologias com as quais tenho contato ou estou aprendendo no momento:
+### 🌐 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</p>
+
+### 🔙 Backend & Banco de Dados
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+</p>
+
+### 🔧 Ferramentas
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=nord&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=nord" alt="Linguagens Mais Usadas" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_AQUI&theme=nord" alt="Streak do GitHub" />
 </div>
 
 ---
 
-### 📊 Minhas Estatísticas
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=7&theme=radical" alt="Linguagens mais usadas"/>
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </div>
