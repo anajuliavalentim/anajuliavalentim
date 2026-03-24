@@ -5,10 +5,10 @@
 ### 👩‍💻 Sobre Mim
 Atualmente, estou mergulhada no mundo da tecnologia cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por resolver problemas através do código e estou em constante aprendizado para construir soluções inteligentes e intuitivas.
 
-- 🎓 **Educação:** Técnico em Desenvolvimento de Sistemas @ SENAI
+- 🎓 **Educação:** Técnico em Desenvolvimento de Sistemas no SENAI
 - 🚀 **Foco atual:** Lógica de programação, Banco de Dados e Desenvolvimento Web.
 - 🌱 **Em aprendizado:** Aprofundando meus conhecimentos em JavaScript e metodologias ágeis.
-- 💬 **Interesses:** UX/UI Design, Open Source e Café.
+- 💬 **Interesses:** tecnologia, programação e inovação.
 
 ---
 
