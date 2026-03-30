@@ -34,7 +34,7 @@ Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI*
 
 ### 📫 Vamos nos conectar?
 
-[![
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_whanaju)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anajuliavalentimdemaria@gmail.com)
 
 ---
