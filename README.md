@@ -6,8 +6,8 @@
 Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Estou em constante aprendizado para construir e criar soluções inteligentes e funcionais.
 
 - 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas no SENAI
-- 🚀 **Foco atual:** Lógica de programação, Banco de Dados e Desenvolvimento Web.
-- 🌱 **Em aprendizado:** Aprofundando meus conhecimentos em JavaScript e metodologias ágeis.
+- 🚀 **Foco atual:** Focada em aprender e aprimorar conhecimentos em programação e tecnologia.
+- 🌱 **Em aprendizado:** metodologias ágeis.
 - 💬 **Interesses:** tecnologia, programação e inovação.
 
 ---
