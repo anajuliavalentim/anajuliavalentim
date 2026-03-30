@@ -1,6 +1,6 @@
 
 
-# Olá, eu sou a Ana Julia! 👋
+# oii, eu sou a Ana Julia! 👋
 
 ### 👩‍💻 Sobre Mim
 Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Estou em constante aprendizado para construir e criar soluções inteligentes e funcionais.
