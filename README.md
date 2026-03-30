@@ -35,7 +35,7 @@ Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI*
 ### 📫 Vamos nos conectar?
 
 [![
-[![Gmail](mailto:anajuliavalentimdemaria@gmail.com)
+[![Gmail]mailto:anajuliavalentimdemaria@gmail.com
 
 ---
 *“A única maneira de fazer um excelente trabalho é amar o que você faz.”*
