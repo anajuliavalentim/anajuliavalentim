@@ -3,9 +3,9 @@
 # Olá, eu sou a Ana Julia! 👋
 
 ### 👩‍💻 Sobre Mim
-Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Sou apaixonada por resolver problemas através do código e estou em constante aprendizado para construir soluções inteligentes e intuitivas.
+Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas no SENAI**. Estou em constante aprendizado para construir e criar soluções inteligentes e funcionais.
 
-- 🎓 **Educação:** Técnico em Desenvolvimento de Sistemas no SENAI
+- 🎓 **Formação:** Técnico em Desenvolvimento de Sistemas no SENAI
 - 🚀 **Foco atual:** Lógica de programação, Banco de Dados e Desenvolvimento Web.
 - 🌱 **Em aprendizado:** Aprofundando meus conhecimentos em JavaScript e metodologias ágeis.
 - 💬 **Interesses:** tecnologia, programação e inovação.
